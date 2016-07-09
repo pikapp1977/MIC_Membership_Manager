@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\bin\Debug\MIC_Membership_Manager.exe
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\bin\Debug\MIC_Membership_Manager.pdb
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\obj\x86\Debug\MIC_Membership_Manager.Form1.resources
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\obj\x86\Debug\MIC_Membership_Manager.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\obj\x86\Debug\MIC_Membership_Manager.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\obj\x86\Debug\MIC_Membership_Manager.exe
+C:\Users\Administrator\Documents\GitHub\MIC_Membership_Manager\MIC_Membership_Manager\obj\x86\Debug\MIC_Membership_Manager.pdb
